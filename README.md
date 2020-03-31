@@ -12,4 +12,4 @@ This data analysis explores a file containing data for 100,000 medical appointme
 
 
 
-Libraries used: pandas, NumPy, Matplotlib, csv
+Libraries used: pandas, NumPy, Matplotlib, csv 
